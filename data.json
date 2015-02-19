@@ -1,0 +1,1198 @@
+[ 
+  {
+    "category":"Hindi Movies",
+      "channels":[
+        {
+          "key":"&-pictures",
+          "name":"& Pictures",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/and_pictures.png"
+        },
+        {
+          "key":"b4u-movies",
+          "name":"B4U Movies",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/b4u_music.png"
+        },
+        {
+          "key":"cinema-tv",
+          "name":"Cinema TV",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/cinema_tv.png"
+        },
+        {
+          "key":"filmy",
+          "name":"Filmy",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/filmy.png"
+        },
+        {
+          "key":"india-talkies",
+          "name":"India Talkies",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/india_talkies_.png"
+        },
+        {
+          "key":"khushboo-tv",
+          "name":"Khushboo Tv",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/khushboo_tv.png"
+        },
+        {
+          "key":"movies-ok",
+          "name":"Movies Ok",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/movies_ok.png"
+        },
+        {
+          "key":"sony-max",
+          "name":"Sony Max",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/sonymax.png"
+        },
+        {
+          "key":"sony-max-2",
+          "name":"Sony Max 2",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/sonymax.png"
+        },
+        {
+          "key":"star-gold",
+          "name":"Star Gold",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/stargold.png"
+        },
+        {
+          "key":"star-gold-hd",
+          "name":"Star Gold HD",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/stargoldhd.png"
+        },
+        {
+          "key":"utv-action",
+          "name":"UTV Action",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/utv_action.png"
+        },
+        {
+          "key":"utv-movies",
+          "name":"UTV Movies",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/utv_movies.png"
+        },
+        {
+          "key":"zee-cinema",
+          "name":"Zee Cinema",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/zee_cinema.png"
+        },
+        {
+          "key":"zee-classic",
+          "name":"Zee Classic",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/zee_classic.png"
+        },
+        {
+          "key":"zee-premier",
+          "name":"Zee Premier",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/zee_premier.png"
+        },
+        {
+          "key":"zee-action",
+          "name":"Zee Action",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/zee_action.png"
+        }
+      ]
+  },
+
+  {
+    "category":"Telugu",
+      "channels": [
+        {
+          "key":"abn-telugu-news",
+          "name":"ABN Telgu News",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/abn_telugu_news.png"
+        },
+        {
+          "key":"bhakti-tv",
+          "name":"Bhakti Tv",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/bhakti_tv.png"
+        },
+        {
+          "key":"etv",
+          "name":"Etv",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/etv.png"
+        },
+        {
+          "key":"etv-2",
+          "name":"Etv 2",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/etv_2.png"
+        },
+        {
+          "key":"gemini-movies",
+          "name":"Gemini Movies",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/gemini_movies.png"
+        },
+        {
+          "key":"gemini-music",
+          "name":"Gemini Music",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/gemini_music.png"
+        },
+        {
+          "key":"gemini-tv",
+          "name":"Gemini Tv",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/gemini_tv.png"
+        },
+        {
+          "key":"gemini-tv-hd",
+          "name":"Gemini Tv HD",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/gemini_tv_hd.png"
+        },
+        {
+          "key":"kushi-tv",
+          "name":"Khushi Tv",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/kushi_tv.png"
+        },
+        {
+          "key":"maa-gold",
+          "name":"Maa Gold",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/maa_gold.png"
+        },
+        {
+          "key":"maa-movies",
+          "name":"Maa Movies",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/maamovies_.png"
+        },
+        {
+          "key":"maa-music",
+          "name":"Maa Music",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/maa_music.png"
+        },
+        {
+          "key":"maa-tv",
+          "name":"Maa Tv",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/maa_tv.png"
+        },
+        {
+          "key":"raj-musix-telugu",
+          "name":"Raj Musix Telugu",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/raj_musix.png"
+        },
+        {
+          "key":"raj-news-24x7",
+          "name":"Raj News 24*7",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/raj_news_24x7.png"
+        },
+        {
+          "key":"studio-n",
+          "name":"Studio N",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/studio_n.png"
+        },
+        {
+          "key":"v6-news",
+          "name":"V6 News",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/v6_news.png"
+        },
+        {
+          "key":"zee-telugu",
+          "name":"Zee Telugu",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/zee_telugu.png"
+        }
+      ]
+  },
+
+  {
+    "category":"Tamil",
+      "channels": [
+        {
+          "key":"7-s-music",
+          "name":"7s Music",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/seven_s_music.png"
+        },
+        {
+          "key":"adithya-tv",
+          "name":"Aditya Tv",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/adithya_tv.png"
+        },
+        {
+          "key":"angel-tv",
+          "name":"Angel Tv",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/angel_tv.png"
+        },
+        {
+          "key":"aseervatham-tv",
+          "name":"Aseervatham Tv",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/aseervatham_tv.png"
+        },
+        {
+          "key":"captain-news",
+          "name":"Captain News",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/captain_news.png"
+        },
+        {
+          "key":"chutti-tv",
+          "name":"Chutti Tv",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/chutti_tv.png"
+        },
+        {
+          "key":"discovery-tamil",
+          "name":"Discovery Tamil",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/discovery_tamil.png"
+        },
+        {
+          "key":"jaya-max",
+          "name":"Jaya Max",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/jaya_max.png"
+        },
+        {
+          "key":"jaya-movie",
+          "name":"Jaya Movie",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/jaya_movies.png"
+        },
+        {
+          "key":"jaya-plus",
+          "name":"Jaya Plus",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/jaya_plus.png"
+        },
+        {
+          "key":"jaya-tv",
+          "name":"Jaya Tv",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/jaya_tv_.png"
+        },
+        {
+          "key":"kalaignar-chithiram",
+          "name":"Kalaignar Chithiram",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/kalaignar_chithiram.png"
+        },
+        {
+          "key":"kalaignar-isai-aruvi",
+          "name":"Kalaignar Isai Aruvi",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/kalaignar_isai_aruvi.png"
+        },
+        {
+          "key":"kalaignar-murasu",
+          "name":"Kalaignar Murasu",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/kalaignar_murasu.png"
+        },
+        {
+          "key":"kalaignar-sirippoli",
+          "name":"Kalaignar Srirppoli",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/kalaignar_sirippoli.png"
+        },
+        {
+          "key":"kalaignar-tv",
+          "name":"kalaignar Tv",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/kalaignar.png"
+        },
+        {
+          "key":"ktv",
+          "name":"KTV",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/ktv_.png"
+        },
+        {
+          "key":"ktv-hd",
+          "name":"KTV HD",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/ktvhd_.png"
+        },
+        {
+          "key":"mega-musiq",
+          "name":"Mega Musiq",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/mega_musiq.png"
+        },
+        {
+          "key":"mega-tv",
+          "name":"Mega Tv",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/mega_tv.png"
+        },
+        {
+          "key":"polimer-tv",
+          "name":"Polimer Tv",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/polimer_tv.png"
+        },
+        {
+          "key":"raj-digital-plus",
+          "name":"Raj Digital Plus",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/raj_digital_plus.png"
+        },
+        {
+          "key":"raj-musix",
+          "name":"Raj Musix",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/raj_musix.png"
+        },
+        {
+          "key":"raj-tv",
+          "name":"Raj Tv",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/raj_tv.png"
+        },
+        {
+          "key":"seithigal",
+          "name":"Seithigal",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/seithigal.png"
+        },
+        {
+          "key":"star-vijay",
+          "name":"Star Vijay",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/star_vijay.png"
+        },
+        {
+          "key":"sun-music",
+          "name":"Sun Music",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/sun_music.png"
+        },
+        {
+          "key":"sun-news",
+          "name":"Sun News",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/sun_news.png"
+        },
+        {
+          "key":"sun-tv",
+          "name":"Sun Tv",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/sun_tv.png"
+        },
+        {
+          "key":"sun-tv-hd",
+          "name":"Sun tv HD",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/sun_tv_hd.png"
+        }
+      ]
+  },
+  
+  {
+    "category":"Music",
+      "channels": [
+        {
+          "key":"9x-jalwa",
+          "name":"9X Jalwa",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/nine_x_jalwa.png"
+        },
+        {
+          "key":"9xm",
+          "name":"9XM",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/nine_xm.png"
+        },
+        {
+          "key":"b4u-music",
+          "name":"B4U Music",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/b4u_music.png"
+        },
+        {
+          "key":"mastiii",
+          "name":"Mastii",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/mastiii.png"
+        },
+        {
+          "key":"mtv",
+          "name":"MTv",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/mtv.png"
+        },
+        {
+          "key":"music-india",
+          "name":"Music India",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/music_india.png"
+        },
+        {
+          "key":"music-xpress",
+          "name":"Music Xpress",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/music_xpress.png"
+        },
+        {
+          "key":"vh1",
+          "name":"VH 1",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/vh1.png"
+        },
+        {
+          "key":"zing",
+          "name":"Zing",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/zing.png"
+        }
+      ]
+  },
+
+  {
+    "category":"Hindi Entertainment",
+      "channels": [
+        {
+          "key":"big-magic",
+          "name":"Big Magic",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/big_magic.png"
+        },
+        {
+          "key":"big-rtl-thrill",
+          "name":"Big RTL Thrill",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/big_rtl_thrill.png"
+        },
+        {
+          "key":"bindass",
+          "name":"Bindass",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/bindass.png"
+        },
+        {
+          "key":"channel-[v]",
+          "name":"Channel [V]",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/channel_v.png"
+        },
+        {
+          "key":"colors",
+          "name":"Colors",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/colors.png"
+        },
+        {
+          "key":"colors-hd",
+          "name":"Colors HD",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/colors_hd.png"
+        },
+        {
+          "key":"dd-bharati",
+          "name":"DD Bharati",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/dd_bharati.png"
+        },
+        {
+          "key":"dd-india",
+          "name":"DD India",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/dd_india_.png"
+        },
+        {
+          "key":"dd-national",
+          "name":"DD National",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/dd_national.png"
+        },
+        {
+          "key":"life-ok",
+          "name":"Life Ok",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/life_ok.png"
+        },
+        {
+          "key":"life-ok-hd",
+          "name":"Life Ok HD",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/life_ok_hd.png"
+        },
+        {
+          "key":"rishtey",
+          "name":"Rishtey",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/rishtey.png"
+        },
+        {
+          "key":"sahara-one",
+          "name":"Sahara One",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/sahara_one.png"
+        },
+        {
+          "key":"sony-entertainment-tv",
+          "name":"Sony Entertainment Tv",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/sony_entertainment_tv.png"
+        },
+        {
+          "key":"sony-pal",
+          "name":"Sony Pal",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/sony_pal.png"
+        },
+        {
+          "key":"sony-sab",
+          "name":"Sony Sab",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/sony_sab.png"
+        },
+        {
+          "key":"sony-tv-hd",
+          "name":"Sony Tv HD",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/sony_entertainment_tv_hd.png"
+        },
+        {
+          "key":"star-plus",
+          "name":"Star Plus",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/star_plus.png"
+        },
+        {
+          "key":"star-utsav",
+          "name":"Star Utsav",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/star_utsav.png"
+        },
+        {
+          "key":"zee-smile",
+          "name":"Zee Smile",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/zee_smile.png"
+        },
+        {
+          "key":"zee-tv",
+          "name":"Zee Tv",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/zee_tv.png"
+        },
+        {
+          "key":"zindagi",
+          "name":"Zindagi",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/zee_zindagi.png"
+        }
+      ]
+  },
+
+  {
+    "category":"English Movies",
+      "channels": [
+        {
+          "key":"hbo",
+          "name":"HBO",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/hbo.png"
+        },
+        {
+          "key":"hbo-defined",
+          "name":"HBO Defined",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/hbo_defined.png"
+        },
+        {
+          "key":"hbo-hits",
+          "name":"HBO Hits",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/hbo_hits.png"
+        },
+        {
+          "key":"mgm",
+          "name":"MGM Channel",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/mgm.png"
+        },
+        {
+          "key":"movies-now",
+          "name":"Movies Now",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/movies_now.png"
+        },
+        {
+          "key":"movies-now-hd",
+          "name":"Movies Now HD",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/movies_now_hd.png"
+        },
+        {
+          "key":"romedy-now",
+          "name":"Romedy Now",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/romedy_now.png"
+        },
+        {
+          "key":"sony-pix",
+          "name":"Sony PIX",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/sonypix.png"
+        },
+        {
+          "key":"star-movies",
+          "name":"Star Movies",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/starmovies.png"
+        },
+        {
+          "key":"star-movies-action",
+          "name":"Star Movies Action",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/star_movies_action.png"
+        },
+        {
+          "key":"star-movies-hd",
+          "name":"Star Movies HD",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/star_movies_hd.png"
+        },
+        {
+          "key":"world-movies",
+          "name":"World Movies",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/world_movies.png"
+        },
+        {
+          "key":"zee-studio",
+          "name":"Zee Studio",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/zee_studio.png"
+        },
+        {
+          "key":"zee-studio-hd",
+          "name":"Zee Studio HD",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/zee_studio_hd.png"
+        }
+      ]
+  },
+
+  {
+    "category":"Kannada",
+      "channels": [
+        {
+          "key":"etv-kannada",
+          "name":"Etv Kannada",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/etv_kannada.png"
+        },
+        {
+          "key":"kasthuri-tv",
+          "name":"Kasthuri Tv",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/kasthuri_tv_.png"
+        },
+        {
+          "key":"raj-music-karnataka",
+          "name":"Raj Music Kannada",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/raj_music_karnataka.png"
+        },
+        {
+          "key":"suvarna-news-24x7",
+          "name":"Suvarna News 24*7",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/suvarna_news_24x7.png"
+        },
+        {
+          "key":"suvarna-plus",
+          "name":"Suvarna Plus",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/suvarna_plus.png"
+        },
+        {
+          "key":"tv9-kannada",
+          "name":"Tv9 Kannada",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/tv9_kannada.png"
+        },
+        {
+          "key":"udaya",
+          "name":"Udaya",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/udaya_tv.png"
+        },
+        {
+          "key":"udaya-comedy",
+          "name":"Udaya Comedy",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/udaya_comedy.png"
+        },
+        {
+          "key":"udaya-movies",
+          "name":"Udaya Movies",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/udaya_movies.png"
+        },
+        {
+          "key":"udaya-music",
+          "name":"Udaya Music",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/udaya_music.png"
+        },
+        {
+          "key":"udaya-news",
+          "name":"Udaya News",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/udaya_news.png"
+        },
+        {
+          "key":"zee-kannada",
+          "name":"Zee Kannada",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/zee_kannada.png"
+        }
+      ]
+  },
+
+  {
+    "category":"Sports",
+      "channels": [
+        {
+          "key":"dd-sports",
+          "name":"DD Sports",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/dd_sports.png"
+        },
+        {
+          "key":"neo-prime",
+          "name":"Neo Prime",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/neo_prime.png"
+        },
+        {
+          "key":"neo-sports",
+          "name":"Neo Sports",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/neo_sports.png"
+        },
+        {
+          "key":"sony-six",
+          "name":"Sony Six",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/sony_six.png"
+        },
+        {
+          "key":"sony-six-hd",
+          "name":"Sony Six HD",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/sony_six_hd.png"
+        },
+        {
+          "key":"star-sports-1",
+          "name":"Star Sports 1",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/star_sports_1.png"
+        },
+        {
+          "key":"star-sports-2",
+          "name":"Start Sports 2",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/star_sports_2.png"
+        },
+        {
+          "key":"star-sports-3",
+          "name":"Start Sports 3",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/star_sports_3.png"
+        },
+        {
+          "key":"star-sports-4",
+          "name":"Start Sports 4",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/star_sports_4.png"
+        },
+        {
+          "key":"star-sports-hd-1",
+          "name":"Start Sports 1 HD",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/star_sports_hd1.png"
+        },
+        {
+          "key":"star-sports-hd-2",
+          "name":"Start Sports 2 HD",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/star_sports_hd2.png"
+        },
+        {
+          "key":"ten-action",
+          "name":"Ten Action",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/ten_action.png"
+        },
+        {
+          "key":"ten-cricket",
+          "name":"Ten Cricket",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/ten_cricket.png"
+        },
+        {
+          "key":"ten-golf",
+          "name":"Ten Golf",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/ten_golf.png"
+        },
+        {
+          "key":"ten-hd",
+          "name":"Ten HD",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/ten_hd.png"
+        },
+        {
+          "key":"ten-sports",
+          "name":"Ten Sports",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/ten_sports.png"
+        }
+      ]
+  },
+
+  {
+    "category":"Infotainment",
+      "channels": [
+        {
+          "key":"animal-planet",
+          "name":"Animal Planet",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/animal_planet.png"
+        },
+        {
+          "key":"discovery-channel",
+          "name":"Discovery Channel",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/channels.png"
+        },
+        {
+          "key":"discovery-hd",
+          "name":"Discovery HD",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/discovery_hd.png"
+        },
+        {
+          "key":"discovery-science",
+          "name":"Discovery Science",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/discovery_science.png"
+        },
+        {
+          "key":"discovery-turbo",
+          "name":"Discovery Turbo",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/discovery_turbo.png"
+        },
+        {
+          "key":"national-geographic-channel",
+          "name":"National Geographic Channel",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/national_geographic_channel.png"
+        },
+        {
+          "key":"national-geographic-channel-hd",
+          "name":"National Geographic Channel HD",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/national_geographic_channel_hd.png"
+        },
+        {
+          "key":"tlc",
+          "name":"TLC",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/tlc.png"
+        }
+      ]
+  },
+
+  {
+    "category":"English News",
+      "channels": [
+        {
+          "key":"cnbc-tv18",
+          "name":"CNBC TV 18",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/cnbc_tv18.png"
+        },
+        {
+          "key":"cnn-ibn",
+          "name":"CNBC IBN",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/cnn_ibn.png"
+        },
+        {
+          "key":"ndtv-24x7",
+          "name":"NDTV 24*7",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/ndtv_24x7.png"
+        },
+        {
+          "key":"ndtv-profit",
+          "name":"NDTV Profit",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/ndtv_profit.png"
+        },
+        {
+          "key":"times-now",
+          "name":"Times Now",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/times_now.png"
+        }
+      ]
+  },
+  
+  {
+    "category":"Hindi News",
+      "channels": [
+        {
+          "key":"aaj-tak",
+          "name":"Aaj Tak",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/aaj_tak.png"
+        },
+        {
+          "key":"cnbc-awaaz",
+          "name":"CNBC Awaaz",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/cnbc_awaaz.png"
+        },
+        {
+          "key":"dd-news",
+          "name":"DD News",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/dd_news.png"
+        },
+        {
+          "key":"focus-tv",
+          "name":"Focus Tv",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/focus_tv.png"
+        },
+        {
+          "key":"ibn-7",
+          "name":"IBN 7",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/ibn_7.png"
+        },
+        {
+          "key":"india-news",
+          "name":"India News",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/india_news.png"
+        },
+        {
+          "key":"india-tv",
+          "name":"India Tv",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/india_tv.png"
+        },
+        {
+          "key":"ndtv-india",
+          "name":"NDTV India",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/ndtv_india.png"
+        },
+        {
+          "key":"news-24",
+          "name":"News 24",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/news24.png"
+        },
+        {
+          "key":"news-express",
+          "name":"News Express",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/newsx.png"
+        },
+        {
+          "key":"zee-business",
+          "name":"Zee Business",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/zee_business.png"
+        },
+        {
+          "key":"zee-news",
+          "name":"Zee News",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/zee_news.png"
+        },
+        {
+          "key":"zee-news-up",
+          "name":"Zee News Up",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/zee_news_up.png"
+        }
+      ]
+  },
+
+  {
+    "category":"Kids",
+      "channels": [
+        {
+          "key":"cartoon-network",
+          "name":"Cartoon Network",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/cartoon_network.png"
+        },
+        {
+          "key":"discovery-kids",
+          "name":"Discovery Kids",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/discovery_kids.png"
+        },
+        {
+          "key":"disney-channel",
+          "name":"Disney Channel",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/disney_channel.png"
+        },
+        {
+          "key":"disney-xd",
+          "name":"Disney XD",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/disney_xd.png"
+        },
+        {
+          "key":"hungama-tv",
+          "name":"Hungama Tv",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/hungama_tv.png"
+        },
+        {
+          "key":"nick-junior",
+          "name":"Nick Junior",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/nick_junior.png"
+        },
+        {
+          "key":"nickelodeon",
+          "name":"Nickelodeon",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/nickelodeon.png"
+        },
+        {
+          "key":"pogo",
+          "name":"Pogo",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/pogo.png"
+        },
+        {
+          "key":"sonic",
+          "name":"Sonic",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/sonic.png"
+        },
+        {
+          "key":"zeeq",
+          "name":"Zeeq",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/zeeq.png"
+        }
+      ]
+  },
+
+  {
+    "category":"English Entertainment",
+      "channels": [
+        {
+          "key":"axn",
+          "name":"AXN",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/axn.png"
+        },
+        {
+          "key":"comedy-central",
+          "name":"Comedy Central",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/comedy_central.png"
+        },
+        {
+          "key":"fox-crime",
+          "name":"Fox Crime",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/fox_crime.png"
+        },
+        {
+          "key":"fx",
+          "name":"FX",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/fx.png"
+        },
+        {
+          "key":"star-world",
+          "name":"Star World",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/starworld.png"
+        },
+        {
+          "key":"star-world-hd",
+          "name":"Star World HD",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/star_world_hd.png"
+        },
+        {
+          "key":"zee-cafe",
+          "name":"Zee Café",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/zee_cafe.png"
+        }
+      ]
+  },
+
+  {
+    "category":"Malayalam",
+      "channels": [
+        {
+          "key":"amrita-tv",
+          "name":"Amrita Tv",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/amrita_tv.png"
+        },
+        {
+          "key":"asianet",
+          "name":"Asianet",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/asianet.png"
+        },
+        {
+          "key":"asianet-movies",
+          "name":"Asianet Movies",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/asianet_movies.png"
+        },
+        {
+          "key":"asianet-news",
+          "name":"Asianet News",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/asianet_news.png"
+        },
+        {
+          "key":"asianet-plus",
+          "name":"Asianet Plus",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/asianet_plus.png"
+        },
+        {
+          "key":"asianet-suvarna",
+          "name":"Asianet Suvarna",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/asianet_suvarna.png"
+        },
+        {
+          "key":"indiavision",
+          "name":"India Vision",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/indiavision.png"
+        },
+        {
+          "key":"kairali-people-tv",
+          "name":"Kairali People Tv",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/kairali_people_tv.png"
+        },
+        {
+          "key":"kairali-tv",
+          "name":"Kairali Tv",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/kairali_tv.png"
+        },
+        {
+          "key":"kairali-we-tv",
+          "name":"Kairali We Tv",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/we_tv.png"
+        },
+        {
+          "key":"mathrubhumi-news",
+          "name":"Mathrubhumi News",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/mathrubhumi_news.png"
+        },
+        {
+          "key":"raj-news-malyalam",
+          "name":"Raj News Malayalam",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/raj_news_malayalam.png"
+        },
+        {
+          "key":"surya-tv",
+          "name":"Surya Tv",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/surya_tv.png"
+        }
+      ]
+  },
+
+  {
+    "category":"Marathi",
+      "channels": [
+        {
+          "key":"9x-jhakaas",
+          "name":"9X Jhakass",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/nine_x_jhakaas.png"
+        },
+        {
+          "key":"etv-marathi",
+          "name":"Etv Marathi",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/etv_marathi.png"
+        },
+        {
+          "key":"ibn-lokmat",
+          "name":"IBN Lokmat",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/ibn_lokmat.png"
+        },
+        {
+          "key":"mi-marathi",
+          "name":"MI Marathi",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/mi_marathi.png"
+        },
+        {
+          "key":"star-pravah",
+          "name":"Star Pravah",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/star_pravah.png"
+        },
+        {
+          "key":"zee-24-taas",
+          "name":"Zee 24 Taas",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/zee_24_taas.png"
+        },
+        {
+          "key":"zee-marathi",
+          "name":"Zee Marathi",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/zee_marathi.png"
+        },
+        {
+          "key":"zee-talkies",
+          "name":"Zee Talkies",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/zee_talkies.png"
+        }
+      ]
+  },
+
+  {
+    "category":"Lifestyle/Fashion",
+      "channels": [
+        {
+          "key":"bindass-play",
+          "name":"Bindass Play",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/bindass.png"
+        },
+        {
+          "key":"fox-life",
+          "name":"Fox Life",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/fox_life.png"
+        },
+        {
+          "key":"fox-life-hd",
+          "name":"Fox Life HD",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/fox_life_hd.png"
+        },
+        {
+          "key":"homeshop-18",
+          "name":"Homeshop 18",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/homeshop18.png"
+        },
+        {
+          "key":"ndtv-good-times",
+          "name":"NDTV Good Times",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/ndtv_good_times.png"
+        },
+        {
+          "key":"travel-xp",
+          "name":"Travle XP",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/travelxp.png"
+        },
+        {
+          "key":"zee-khana-khazana",
+          "name":"Zee Khana Khazana",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/zkhanna.png"
+        },
+        {
+          "key":"zoom",
+          "name":"Zoom",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/zoom.png"
+        }
+      ]
+  },
+
+  {
+    "category":"Bangla",
+      "channels": [
+        {
+          "key":"akash-bangla",
+          "name":"Akash Bangla",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/akash_bangla_.png"
+        },
+        {
+          "key":"channel-10",
+          "name":"Channel 10",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/channel_10.png"
+        },
+        {
+          "key":"dhoom-music",
+          "name":"Dhoom Music",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/dhoom_music.png"
+        },
+        {
+          "key":"etv-bangla",
+          "name":"Etv Bangla",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/etv_bangla_.png"
+        },
+        {
+          "key":"kolkata-tv",
+          "name":"Kolkata Tv",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/kolkata_tv.png"
+        },
+        {
+          "key":"ruposhi-bangla",
+          "name":"Ruposhi Bangla",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/ruposhi_bangla.png"
+        },
+        {
+          "key":"sangeet-bangla",
+          "name":"Sangeet Bangla",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/sangeet_bangla.png"
+        },
+        {
+          "key":"star-jalsha",
+          "name":"Jalsha Movies",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/star_jalsha.png"
+        },
+        {
+          "key":"zee-bangla",
+          "name":"Zee Bangla",
+          "logo":"https://raw.githubusercontent.com/ashokgujju/tv-guide-resources/master/images/zee_bangla.png"
+        }
+      ]
+  }
+]
